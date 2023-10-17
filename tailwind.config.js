@@ -8,6 +8,10 @@ export default {
     extend: {
       borderRadius: {
         '4xl': '2.5rem',
+      },
+      colors: {
+        'orange': '#eb651c',
+        'almost-white': '#fffaf7'
       }
     },
   },
